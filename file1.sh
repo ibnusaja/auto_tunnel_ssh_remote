@@ -5,9 +5,9 @@ logping=$(cat "/sdcard/Alarms/logPING.txt")
 if [ "$logping" == "$entah" ]
 then
  echo "konek ke inet"
- /data/data/com.termux/files/home/auto_tunnel_ssh_remot/tanel.sh
+ /data/data/com.termux/files/home/auto_tunnel_ssh_remote/tanel.sh
 else
  echo "tidak konek inet"
  echo $logping
- /data/data/com.termux/files/home/auto_tunnel_ssh_remot/file2.sh
+ /data/data/com.termux/files/home/auto_tunnel_ssh_remote/file2.sh
 fi
