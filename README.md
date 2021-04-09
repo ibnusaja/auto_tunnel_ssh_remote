@@ -25,7 +25,8 @@ git clone https://github.com/ibnusaja/auto_tunnel_ssh_remote.git && chmod -R 755
 2. pergi kedirektori $HOME/auto_tunnel_ssh_remote .
 4. edit file tanel.sh ,bisa menggunakan nano atau vim.
 5. ubah user@ip-vps dan port yg diinginkan.
-6. jika kurang paham bisa nonton video ini : 
+6. kemudian jalankan program, dengan  " ./tanel.sh
+7. jika kurang paham bisa nonton video ini : 
 
 
 
