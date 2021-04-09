@@ -11,7 +11,9 @@ jika kurang paham, bisa kunjungi video berikut :
 
 # instalasi 
 1. open your termux terminal 
-2. copy command dibawah , dan pastekan di terminal termux
+2. copy command dibawah , dan pastekan di terminal termux.
+
+
 " git clone https://github.com/ibnusaja/auto_tunnel_ssh_remote.git && chmod -R 755 auto_tunnel_ssh_remot "
 
 3. selesai
