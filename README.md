@@ -1,3 +1,6 @@
+# THIS TOOLS ONLY FOR TERMUX
+anda bisa mengedit sendiri jika ingin digunakan di terminal lain
+ 
 # auto_tunnel_ssh_remote
 This tools auto connect ssh remote , for ddns 
 
